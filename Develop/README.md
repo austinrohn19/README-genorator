@@ -1,9 +1,9 @@
 
-# README file genorater
-https://github.com/undefined/README file genorater
+# README File Genorater
+https://github.com/austinrohn19/README File Genorater
 
 # Description
-this is a template that will help devolpers create a quick yet professional clean read me file
+This is a template that will help deveolpers create a quick yet professional clean Read Me file
 
 # Table of Contents 
 * [Installation](#installation)
@@ -14,20 +14,20 @@ this is a template that will help devolpers create a quick yet professional clea
 * [Questions](#questions)
 
 # Installation
-The following necessary dependencies must be installed to run the application properly: inquire, fs, until
+The following necessary dependencies must be installed to run the application properly: inquire,fs,util
 
 # Usage
-In order to use this app, run this in your desired terminal using Node JS
+In order to use this app, run this in your desired terminal using "node index.js"
 
 # License
-This project is licensed under the MIT License from choose my license.com license. 
+This project is licensed under the please see below license. 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # Contributing
 ​Contributors: ME!
 
 # Tests
-The following is needed to run the test: you run it in your terminal using "node index.js".
+The following is needed to run the test: run with node
 
 # Questions
 If you have any questions about the repo, open an issue or contact undefined directly at : austinrohn19@gmail.com.
