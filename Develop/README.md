@@ -1,9 +1,11 @@
 
-# README-genorator
-https://github.com/austinrohn19/README-genorator
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+# README-generator
+https://github.com/austinrohn19/README-generator
 
 # Description
-this a template that wil help devolpers create a quick yet prossional clean readme file
+this will help devolpoers creata professional and clean read me file
 
 # Table of Contents 
 * [Installation](#installation)
@@ -14,20 +16,19 @@ this a template that wil help devolpers create a quick yet prossional clean read
 * [Questions](#questions)
 
 # Installation
-The following necessary dependencies must be installed to run the application properly: inquire, fs, util
+The following necessary dependencies must be installed to run the application properly: inquire, fs, and util
 
 # Usage
-In order to use this app, run this in your desired terminal using Node JS
+In order to use this app, run it in yoou desired terminal using node.js
 
 # License
-This project is licensed under the MIT License from choose my lisence.com license. 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+This project is licensed under the MIT license. 
 
 # Contributing
 ​Contributors: ME!
 
 # Tests
-The following is needed to run the test: run this complete respository in your terminal with the line "node index.js"
+The following is needed to run the test: run in in your terminal using the code "node index.js"
 
 # Questions
 If you have any questions about the repo, open an issue or contact undefined directly at : austinrohn19@gmail.com.

@@ -4,6 +4,7 @@ const fs = require('fs');
 const util = require("util");
 
 const genorateMarkdown = require("./utils/generateMarkdown");
+const Choices = require('inquirer/lib/objects/choices');
 
 // TODO: Create an array of questions for user input
 const questions = [ {
@@ -27,9 +28,10 @@ const questions = [ {
     message: "How do you use this project?",
     name: "Usage"
 }, {
-    type: "input",
-    message: "what licenses do you need to use for this project?",
-    name: "License"
+    type: "list",
+    message: "please choose your license provider?",
+    name: "License",
+    choices: ["MIT", "Apache License 2.0", "Boost Software license 1.0", "The Unlicense"], 
 }, {
     type: "input",
     message: "who contributed to this project?",
