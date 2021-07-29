@@ -1,6 +1,8 @@
 function generateMarkdown(data) {
 
   return `
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
 # ${data.Title}
 https://github.com/${data.Github}/${data.Title}
 
@@ -23,7 +25,6 @@ In order to use this app, ${data.Usage}
 
 # License
 This project is licensed under the ${data.License} license. 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # Contributing
 ​Contributors: ${data.Contributing}
