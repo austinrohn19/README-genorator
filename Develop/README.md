@@ -1,11 +1,13 @@
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-# README-generator
-https://github.com/austinrohn19/README-generator
+## Badges
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+# README-genorator
+https://github.com/austinrohn19/README-genorator
 
 # Description
-this will help devolpoers creata professional and clean read me file
+this helps deveolpers create a clean and professional read me file more productivtly
 
 # Table of Contents 
 * [Installation](#installation)
@@ -16,19 +18,19 @@ this will help devolpoers creata professional and clean read me file
 * [Questions](#questions)
 
 # Installation
-The following necessary dependencies must be installed to run the application properly: inquire, fs, and util
+The following necessary dependencies must be installed to run the application properly: inquire, fs, util
 
 # Usage
-In order to use this app, run it in yoou desired terminal using node.js
+In order to use this app, run it in node.js terminal
 
 # License
-This project is licensed under the MIT license. 
+This project is licensed under the Apache License 2.0 license. 
 
 # Contributing
 ​Contributors: ME!
 
 # Tests
-The following is needed to run the test: run in in your terminal using the code "node index.js"
+The following is needed to run the test: run "node index.js"
 
 # Questions
 If you have any questions about the repo, open an issue or contact undefined directly at : austinrohn19@gmail.com.

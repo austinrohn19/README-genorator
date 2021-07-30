@@ -31,7 +31,7 @@ const questions = [ {
     type: "list",
     message: "please choose your license provider?",
     name: "License",
-    choices: ["MIT", "Apache License 2.0", "Boost Software license 1.0", "The Unlicense"], 
+    choices: [ "MIT", "Apache License 2.0", "GNU GPL v3", "The Unlicense"], 
 }, {
     type: "input",
     message: "who contributed to this project?",

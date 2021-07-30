@@ -1,7 +1,23 @@
+function LicenseBadge(License) {
+  if (License === "MIT") {
+    return "## Badges\n" + "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)";
+
+  } else if (License === "Apache License 2.0") {
+    return "## Badges\n" + "[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)";
+
+  } else if (License === "GNU GPL v3") {
+    return "## Badges\n" + "[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)";
+
+  }else {
+    return "";
+  }
+}
+
 function generateMarkdown(data) {
 
   return `
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+${LicenseBadge(data.License)}
 
 # ${data.Title}
 https://github.com/${data.Github}/${data.Title}
