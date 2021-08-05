@@ -1,9 +1,13 @@
 
+
+## Badges
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 # README-genorator
 https://github.com/austinrohn19/README-genorator
 
 # Description
-this a template that wil help devolpers create a quick yet prossional clean readme file
+this is to help developers create a clean and professional readme file more productivly
 
 # Table of Contents 
 * [Installation](#installation)
@@ -17,17 +21,16 @@ this a template that wil help devolpers create a quick yet prossional clean read
 The following necessary dependencies must be installed to run the application properly: inquire, fs, util
 
 # Usage
-In order to use this app, run this in your desired terminal using Node JS
+In order to use this app, run it in your desired terminal with node.js
 
 # License
-This project is licensed under the MIT License from choose my lisence.com license. 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+This project is licensed under the Apache License 2.0 license. 
 
 # Contributing
 ​Contributors: ME!
 
 # Tests
-The following is needed to run the test: run this complete respository in your terminal with the line "node index.js"
+The following is needed to run the test: run the code "node index.js" in your terminal
 
 # Questions
 If you have any questions about the repo, open an issue or contact undefined directly at : austinrohn19@gmail.com.
